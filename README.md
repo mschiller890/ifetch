@@ -15,3 +15,5 @@ The list of information includes:
 - Desktop environment (`echo "$XDG_CURRENT_DESKTOP"`)
 - Username (`whoami`)
 - Battery status and capacity (`battery_status=$(cat /sys/class/power_supply/BAT0/status)`, `battery_capacity=$(cat /sys/class/power_supply/BAT0/capacity`)
+
+![image](https://github.com/user-attachments/assets/994fd84c-f3a2-4f3e-9710-5d0ed0c688a2)
