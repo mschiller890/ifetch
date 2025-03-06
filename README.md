@@ -14,5 +14,4 @@ The list of information includes:
 - Resolution, requires xrandr (`xrandr | grep '*' | awk '{print $1}'`)
 - Desktop environment (`echo "$XDG_CURRENT_DESKTOP"`)
 - Username (`whoami`)
-- Battery status and capacity (`battery_status=$(cat /sys/class/power_supply/BAT0/status)
-        battery_capacity=$(cat /sys/class/power_supply/BAT0/capacity`)
+- Battery status and capacity (`battery_status=$(cat /sys/class/power_supply/BAT0/status)`, `battery_capacity=$(cat /sys/class/power_supply/BAT0/capacity`)
