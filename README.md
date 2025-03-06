@@ -1,5 +1,5 @@
 # ifetch
-Lightweight (and bad) alternative to neofetch.
+Lightweight (and bad) alternative to neofetch written in bash.
 
 # Features
 Basically same as neofetch, currently aimed to be used on Arch.
