@@ -24,3 +24,5 @@ The list of information includes:
 - More customization.
 - Better layout.
 - Code that doesn't suck.
+- Flags.
+    For example, if ifetch was run with `--minimal` it would only list OS, hostnamm, kernel, uptime, CPU and RAM.
