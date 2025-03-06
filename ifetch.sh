@@ -112,8 +112,7 @@ text="
                      $(print_in_color 33 'Resolution:') $resolution_info
                      $(print_in_color 33 'Desktop Environment:') $de_info
                      $(print_in_color 33 'User:') $user_info
-                     $(print_in_color 33 'Battery:') $battery_info
-"
+                     $(print_in_color 33 'Battery:') $battery_info"
 
 # Print the wall of text
 echo "$text"
