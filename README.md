@@ -1,6 +1,8 @@
 # ifetch
 Lightweight (and bad) alternative to neofetch written in bash.
 
+![image](https://github.com/user-attachments/assets/994fd84c-f3a2-4f3e-9710-5d0ed0c688a2)
+
 # Features
 Basically same as neofetch, currently aimed to be used on Arch.
 The list of information includes:
@@ -16,4 +18,9 @@ The list of information includes:
 - Username (`whoami`)
 - Battery status and capacity (`battery_status=$(cat /sys/class/power_supply/BAT0/status)`, `battery_capacity=$(cat /sys/class/power_supply/BAT0/capacity`)
 
-![image](https://github.com/user-attachments/assets/994fd84c-f3a2-4f3e-9710-5d0ed0c688a2)
+# Planned improvements
+- Changing the icon based on some kind of a config?
+- Color settings.
+- More customization.
+- Better layout.
+- Code that doesn't suck.
